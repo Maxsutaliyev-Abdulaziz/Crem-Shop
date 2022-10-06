@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import data from "../Mock/data";
-import { Header, H1, SS, SSS, ZZZ, PP, Sss, Pp, Mini, H2, Hr, Img, Mbox, Pbox, Btn, H3, Sticke, H4, H5, H6, H7, Div } from './../styled'
+import { Header, H1, SS, SSS, ZZZ, PP, Sss, Pp, Mini, H2, Hr, Img, Mbox, Pbox, Btn, H3, Sticke, Div } from './../styled'
 import icon from "../../img/icon.png"
 import H from "../../img/H.png"
 
